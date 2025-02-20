@@ -1,0 +1,107 @@
+{
+    "https://github.com/ValveSoftware/source-sdk-2013": {
+        "time": "2025-02-20",
+        "desc": "The 2013 edition of the Source SDK",
+        "lang": "C++",
+        "star": "6302",
+        "fork": "2222"
+    },
+    "https://github.com/nexus-xyz/network-api": {
+        "time": "2025-02-20",
+        "desc": "High-performance interface for supplying compute to the Nexus network.",
+        "lang": "Rust",
+        "star": "387",
+        "fork": "171"
+    },
+    "https://github.com/microsoft/OmniParser": {
+        "time": "2025-02-20",
+        "desc": "A simple screen parsing tool towards pure vision based GUI agent",
+        "lang": "Jupyter Notebook",
+        "star": "15018",
+        "fork": "1125"
+    },
+    "https://github.com/harry0703/MoneyPrinterTurbo": {
+        "time": "2025-02-20",
+        "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "lang": "Python",
+        "star": "23212",
+        "fork": "3409"
+    },
+    "https://github.com/hpcaitech/ColossalAI": {
+        "time": "2025-02-20",
+        "desc": "Making large AI models cheaper, faster and more accessible",
+        "lang": "Python",
+        "star": "40013",
+        "fork": "4451"
+    },
+    "https://github.com/NVIDIA/cutlass": {
+        "time": "2025-02-20",
+        "desc": "CUDA Templates for Linear Algebra Subroutines",
+        "lang": "C++",
+        "star": "6268",
+        "fork": "1076"
+    },
+    "https://github.com/treetrum/amazon-kindle-bulk-downloader": {
+        "time": "2025-02-20",
+        "desc": "Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.",
+        "lang": "TypeScript",
+        "star": "237",
+        "fork": "21"
+    },
+    "https://github.com/wangrongding/wechat-bot": {
+        "time": "2025-02-20",
+        "desc": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+        "lang": "JavaScript",
+        "star": "6710",
+        "fork": "881"
+    },
+    "https://github.com/geekan/MetaGPT": {
+        "time": "2025-02-20",
+        "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "lang": "Python",
+        "star": "46731",
+        "fork": "5563"
+    },
+    "https://github.com/lucide-icons/lucide": {
+        "time": "2025-02-20",
+        "desc": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+        "lang": "JavaScript",
+        "star": "14767",
+        "fork": "658"
+    },
+    "https://github.com/mastra-ai/mastra": {
+        "time": "2025-02-20",
+        "desc": "the TypeScript AI agent framework",
+        "lang": "TypeScript",
+        "star": "2541",
+        "fork": "88"
+    },
+    "https://github.com/microsoft/TinyTroupe": {
+        "time": "2025-02-20",
+        "desc": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+        "lang": "Python",
+        "star": "5607",
+        "fork": "454"
+    },
+    "https://github.com/78/xiaozhi-esp32": {
+        "time": "2025-02-20",
+        "desc": "Build your own AI friend",
+        "lang": "C++",
+        "star": "5518",
+        "fork": "945"
+    },
+    "https://github.com/jingyaogong/minimind": {
+        "time": "2025-02-20",
+        "desc": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+        "lang": "Python",
+        "star": "10987",
+        "fork": "1160"
+    },
+    "https://github.com/spf13/cobra": {
+        "time": "2025-02-20",
+        "desc": "A Commander for modern Go CLI interactions",
+        "lang": "Go",
+        "star": "39402",
+        "fork": "2889"
+    }
+}
