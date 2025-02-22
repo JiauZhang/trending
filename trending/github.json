@@ -1,0 +1,100 @@
+{
+    "https://github.com/mastra-ai/mastra": {
+        "time": "2025-02-22",
+        "desc": "the TypeScript AI agent framework",
+        "lang": "TypeScript",
+        "star": "3763",
+        "fork": "148"
+    },
+    "https://github.com/treetrum/amazon-kindle-bulk-downloader": {
+        "time": "2025-02-22",
+        "desc": "Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.",
+        "lang": "TypeScript",
+        "star": "578",
+        "fork": "41"
+    },
+    "https://github.com/NationalSecurityAgency/ghidra": {
+        "time": "2025-02-22",
+        "desc": "Ghidra is a software reverse engineering (SRE) framework",
+        "lang": "Java",
+        "star": "54305",
+        "fork": "6116"
+    },
+    "https://github.com/NVIDIA/cutlass": {
+        "time": "2025-02-22",
+        "desc": "CUDA Templates for Linear Algebra Subroutines",
+        "lang": "C++",
+        "star": "6378",
+        "fork": "1085"
+    },
+    "https://github.com/geekan/MetaGPT": {
+        "time": "2025-02-22",
+        "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "lang": "Python",
+        "star": "47090",
+        "fork": "5611"
+    },
+    "https://github.com/ossu/computer-science": {
+        "time": "2025-02-22",
+        "desc": "🎓 Path to a free self-taught education in Computer Science!",
+        "lang": "",
+        "star": "175631",
+        "fork": "22288"
+    },
+    "https://github.com/nndl/nndl.github.io": {
+        "time": "2025-02-22",
+        "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+        "lang": "HTML",
+        "star": "17887",
+        "fork": "3615"
+    },
+    "https://github.com/nexus-xyz/network-api": {
+        "time": "2025-02-22",
+        "desc": "High-performance interface for supplying compute to the Nexus network.",
+        "lang": "Rust",
+        "star": "574",
+        "fork": "224"
+    },
+    "https://github.com/koide3/glim": {
+        "time": "2025-02-22",
+        "desc": "GLIM: versatile and extensible range-based 3D localization and mapping framework",
+        "lang": "C++",
+        "star": "764",
+        "fork": "96"
+    },
+    "https://github.com/wangrongding/wechat-bot": {
+        "time": "2025-02-22",
+        "desc": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+        "lang": "JavaScript",
+        "star": "7153",
+        "fork": "911"
+    },
+    "https://github.com/psf/black": {
+        "time": "2025-02-22",
+        "desc": "The uncompromising Python code formatter",
+        "lang": "Python",
+        "star": "39668",
+        "fork": "2532"
+    },
+    "https://github.com/78/xiaozhi-esp32": {
+        "time": "2025-02-22",
+        "desc": "Build your own AI friend",
+        "lang": "C++",
+        "star": "5935",
+        "fork": "1007"
+    },
+    "https://github.com/browser-use/browser-use": {
+        "time": "2025-02-22",
+        "desc": "Make websites accessible for AI agents",
+        "lang": "Python",
+        "star": "30902",
+        "fork": "3194"
+    },
+    "https://github.com/harry0703/MoneyPrinterTurbo": {
+        "time": "2025-02-22",
+        "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "lang": "Python",
+        "star": "23768",
+        "fork": "3474"
+    }
+}
