@@ -1,0 +1,182 @@
+[
+    {
+        "id": "perplexity-ai/r1-1776",
+        "likes": 1781,
+        "downloads": 13704,
+        "url": "https://huggingface.co/perplexity-ai/r1-1776"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1",
+        "likes": 10314,
+        "downloads": 4583942,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "id": "microsoft/OmniParser-v2.0",
+        "likes": 970,
+        "downloads": 5885,
+        "url": "https://huggingface.co/microsoft/OmniParser-v2.0"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-T2V-14B",
+        "likes": 329,
+        "downloads": 17215,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B"
+    },
+    {
+        "id": "microsoft/wham",
+        "likes": 222,
+        "downloads": 0,
+        "url": "https://huggingface.co/microsoft/wham"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "likes": 9031,
+        "downloads": 1874659,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "id": "stepfun-ai/stepvideo-t2v",
+        "likes": 386,
+        "downloads": 1408,
+        "url": "https://huggingface.co/stepfun-ai/stepvideo-t2v"
+    },
+    {
+        "id": "qihoo360/TinyR1-32B-Preview",
+        "likes": 163,
+        "downloads": 525,
+        "url": "https://huggingface.co/qihoo360/TinyR1-32B-Preview"
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "likes": 3428,
+        "downloads": 1218470,
+        "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    {
+        "id": "allenai/olmOCR-7B-0225-preview",
+        "likes": 159,
+        "downloads": 1354,
+        "url": "https://huggingface.co/allenai/olmOCR-7B-0225-preview"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-I2V-14B-720P",
+        "likes": 148,
+        "downloads": 12951,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P"
+    },
+    {
+        "id": "stepfun-ai/Step-Audio-Chat",
+        "likes": 395,
+        "downloads": 866,
+        "url": "https://huggingface.co/stepfun-ai/Step-Audio-Chat"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-T2V-1.3B",
+        "likes": 125,
+        "downloads": 2680,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B"
+    },
+    {
+        "id": "Kijai/SkyReels-V1-Hunyuan_comfy",
+        "likes": 151,
+        "downloads": 30607,
+        "url": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy"
+    },
+    {
+        "id": "yandex/YandexGPT-5-Lite-8B-pretrain",
+        "likes": 111,
+        "downloads": 1529,
+        "url": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain"
+    },
+    {
+        "id": "moonshotai/Moonlight-16B-A3B-Instruct",
+        "likes": 103,
+        "downloads": 1546,
+        "url": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct"
+    },
+    {
+        "id": "Skywork/SkyReels-V1-Hunyuan-I2V",
+        "likes": 221,
+        "downloads": 29612,
+        "url": "https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V"
+    },
+    {
+        "id": "nvidia/DeepSeek-R1-FP4",
+        "likes": 93,
+        "downloads": 176,
+        "url": "https://huggingface.co/nvidia/DeepSeek-R1-FP4"
+    },
+    {
+        "id": "microsoft/Magma-8B",
+        "likes": 90,
+        "downloads": 610,
+        "url": "https://huggingface.co/microsoft/Magma-8B"
+    },
+    {
+        "id": "unsloth/DeepSeek-R1-GGUF",
+        "likes": 927,
+        "downloads": 4203826,
+        "url": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+    },
+    {
+        "id": "Kijai/WanVideo_comfy",
+        "likes": 86,
+        "downloads": 0,
+        "url": "https://huggingface.co/Kijai/WanVideo_comfy"
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+        "likes": 562,
+        "downloads": 1835097,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct"
+    },
+    {
+        "id": "deepseek-ai/Janus-Pro-7B",
+        "likes": 3128,
+        "downloads": 500974,
+        "url": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+    },
+    {
+        "id": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+        "likes": 76,
+        "downloads": 6312,
+        "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+    },
+    {
+        "id": "homebrewltd/AlphaMaze-v0.2-1.5B",
+        "likes": 75,
+        "downloads": 349,
+        "url": "https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+        "likes": 1183,
+        "downloads": 1172684,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+        "id": "stepfun-ai/Step-Audio-TTS-3B",
+        "likes": 150,
+        "downloads": 1461,
+        "url": "https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B"
+    },
+    {
+        "id": "perplexity-ai/r1-1776-distill-llama-70b",
+        "likes": 72,
+        "downloads": 1645,
+        "url": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3",
+        "likes": 3556,
+        "downloads": 3131991,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+        "likes": 940,
+        "downloads": 1191275,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+    }
+]

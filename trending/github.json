@@ -1,0 +1,72 @@
+{
+    "https://github.com/vllm-project/aibrix": {
+        "time": "2025-02-26",
+        "desc": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+        "lang": "Jupyter Notebook",
+        "star": "2366",
+        "fork": "200"
+    },
+    "https://github.com/al1abb/invoify": {
+        "time": "2025-02-26",
+        "desc": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+        "lang": "TypeScript",
+        "star": "4157",
+        "fork": "411"
+    },
+    "https://github.com/NirDiamant/GenAI_Agents": {
+        "time": "2025-02-26",
+        "desc": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "lang": "Jupyter Notebook",
+        "star": "6972",
+        "fork": "933"
+    },
+    "https://github.com/deepseek-ai/awesome-deepseek-integration": {
+        "time": "2025-02-26",
+        "desc": "",
+        "lang": "",
+        "star": "22299",
+        "fork": "2416"
+    },
+    "https://github.com/mishushakov/llm-scraper": {
+        "time": "2025-02-26",
+        "desc": "Turn any webpage into structured data using LLMs",
+        "lang": "TypeScript",
+        "star": "4196",
+        "fork": "237"
+    },
+    "https://github.com/drawdb-io/drawdb": {
+        "time": "2025-02-26",
+        "desc": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "lang": "JavaScript",
+        "star": "24506",
+        "fork": "1738"
+    },
+    "https://github.com/ggerganov/ggwave": {
+        "time": "2025-02-26",
+        "desc": "Tiny data-over-sound library",
+        "lang": "C++",
+        "star": "4258",
+        "fork": "244"
+    },
+    "https://github.com/maybe-finance/maybe": {
+        "time": "2025-02-26",
+        "desc": "The OS for your personal finances",
+        "lang": "Ruby",
+        "star": "41245",
+        "fork": "2921"
+    },
+    "https://github.com/langgenius/dify": {
+        "time": "2025-02-26",
+        "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "lang": "TypeScript",
+        "star": "73682",
+        "fork": "10739"
+    },
+    "https://github.com/FreeTubeApp/FreeTube": {
+        "time": "2025-02-26",
+        "desc": "An Open Source YouTube app for privacy",
+        "lang": "JavaScript",
+        "star": "15862",
+        "fork": "997"
+    }
+}
