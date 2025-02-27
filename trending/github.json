@@ -1,0 +1,79 @@
+{
+    "https://github.com/ggerganov/ggwave": {
+        "time": "2025-02-28",
+        "desc": "Tiny data-over-sound library",
+        "lang": "C++",
+        "star": "5131",
+        "fork": "278"
+    },
+    "https://github.com/modelscope/DiffSynth-Studio": {
+        "time": "2025-02-28",
+        "desc": "Enjoy the magic of Diffusion models!",
+        "lang": "Python",
+        "star": "7151",
+        "fork": "653"
+    },
+    "https://github.com/NVIDIA/cutlass": {
+        "time": "2025-02-28",
+        "desc": "CUDA Templates for Linear Algebra Subroutines",
+        "lang": "C++",
+        "star": "6845",
+        "fork": "1117"
+    },
+    "https://github.com/NirDiamant/GenAI_Agents": {
+        "time": "2025-02-28",
+        "desc": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "lang": "Jupyter Notebook",
+        "star": "7440",
+        "fork": "976"
+    },
+    "https://github.com/Soulter/AstrBot": {
+        "time": "2025-02-28",
+        "desc": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "lang": "Python",
+        "star": "3775",
+        "fork": "215"
+    },
+    "https://github.com/allenai/olmocr": {
+        "time": "2025-02-28",
+        "desc": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "lang": "Python",
+        "star": "1874",
+        "fork": "126"
+    },
+    "https://github.com/twentyhq/twenty": {
+        "time": "2025-02-28",
+        "desc": "Building a modern alternative to Salesforce, powered by the community.",
+        "lang": "TypeScript",
+        "star": "26004",
+        "fork": "2764"
+    },
+    "https://github.com/langgenius/dify": {
+        "time": "2025-02-28",
+        "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "lang": "TypeScript",
+        "star": "74649",
+        "fork": "10877"
+    },
+    "https://github.com/freddyaboulton/fastrtc": {
+        "time": "2025-02-28",
+        "desc": "The python library for real-time communication",
+        "lang": "Python",
+        "star": "853",
+        "fork": "81"
+    },
+    "https://github.com/maybe-finance/maybe": {
+        "time": "2025-02-28",
+        "desc": "The OS for your personal finances",
+        "lang": "Ruby",
+        "star": "41665",
+        "fork": "2944"
+    },
+    "https://github.com/FreeTubeApp/FreeTube": {
+        "time": "2025-02-28",
+        "desc": "An Open Source YouTube app for privacy",
+        "lang": "JavaScript",
+        "star": "16434",
+        "fork": "1032"
+    }
+}
