@@ -1,0 +1,65 @@
+{
+    "https://github.com/allenai/olmocr": {
+        "time": "2025-02-28",
+        "desc": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "lang": "Python",
+        "star": "2875",
+        "fork": "184"
+    },
+    "https://github.com/Soulter/AstrBot": {
+        "time": "2025-02-28",
+        "desc": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "lang": "Python",
+        "star": "4116",
+        "fork": "231"
+    },
+    "https://github.com/landing-ai/vision-agent": {
+        "time": "2025-02-28",
+        "desc": "Vision agent",
+        "lang": "Python",
+        "star": "3172",
+        "fork": "365"
+    },
+    "https://github.com/NirDiamant/GenAI_Agents": {
+        "time": "2025-02-28",
+        "desc": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "lang": "Jupyter Notebook",
+        "star": "7652",
+        "fork": "991"
+    },
+    "https://github.com/SoftFever/OrcaSlicer": {
+        "time": "2025-02-28",
+        "desc": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+        "lang": "C++",
+        "star": "8787",
+        "fork": "1065"
+    },
+    "https://github.com/freddyaboulton/fastrtc": {
+        "time": "2025-02-28",
+        "desc": "The python library for real-time communication",
+        "lang": "Python",
+        "star": "1120",
+        "fork": "98"
+    },
+    "https://github.com/fish-shell/fish-shell": {
+        "time": "2025-02-28",
+        "desc": "The user-friendly command line shell.",
+        "lang": "Rust",
+        "star": "28299",
+        "fork": "1989"
+    },
+    "https://github.com/drawdb-io/drawdb": {
+        "time": "2025-02-28",
+        "desc": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "lang": "JavaScript",
+        "star": "24903",
+        "fork": "1758"
+    },
+    "https://github.com/langgenius/dify": {
+        "time": "2025-02-28",
+        "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "lang": "TypeScript",
+        "star": "75199",
+        "fork": "10961"
+    }
+}

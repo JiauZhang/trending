@@ -1,0 +1,182 @@
+[
+    {
+        "id": "deepseek-ai/DeepSeek-R1",
+        "likes": 10489,
+        "downloads": 4626851,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "id": "perplexity-ai/r1-1776",
+        "likes": 1889,
+        "downloads": 31852,
+        "url": "https://huggingface.co/perplexity-ai/r1-1776"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-T2V-14B",
+        "likes": 548,
+        "downloads": 92453,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B"
+    },
+    {
+        "id": "microsoft/Phi-4-multimodal-instruct",
+        "likes": 486,
+        "downloads": 7346,
+        "url": "https://huggingface.co/microsoft/Phi-4-multimodal-instruct"
+    },
+    {
+        "id": "allenai/olmOCR-7B-0225-preview",
+        "likes": 287,
+        "downloads": 16041,
+        "url": "https://huggingface.co/allenai/olmOCR-7B-0225-preview"
+    },
+    {
+        "id": "qihoo360/TinyR1-32B-Preview",
+        "likes": 245,
+        "downloads": 2317,
+        "url": "https://huggingface.co/qihoo360/TinyR1-32B-Preview"
+    },
+    {
+        "id": "microsoft/OmniParser-v2.0",
+        "likes": 1030,
+        "downloads": 6725,
+        "url": "https://huggingface.co/microsoft/OmniParser-v2.0"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-I2V-14B-720P",
+        "likes": 227,
+        "downloads": 36058,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P"
+    },
+    {
+        "id": "microsoft/Magma-8B",
+        "likes": 195,
+        "downloads": 2740,
+        "url": "https://huggingface.co/microsoft/Magma-8B"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-T2V-1.3B",
+        "likes": 183,
+        "downloads": 8295,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B"
+    },
+    {
+        "id": "microsoft/Phi-4-mini-instruct",
+        "likes": 178,
+        "downloads": 9109,
+        "url": "https://huggingface.co/microsoft/Phi-4-mini-instruct"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "likes": 9075,
+        "downloads": 1944946,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "id": "nvidia/DeepSeek-R1-FP4",
+        "likes": 157,
+        "downloads": 1744,
+        "url": "https://huggingface.co/nvidia/DeepSeek-R1-FP4"
+    },
+    {
+        "id": "Kijai/WanVideo_comfy",
+        "likes": 149,
+        "downloads": 0,
+        "url": "https://huggingface.co/Kijai/WanVideo_comfy"
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "likes": 3468,
+        "downloads": 1292325,
+        "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    {
+        "id": "yandex/YandexGPT-5-Lite-8B-pretrain",
+        "likes": 143,
+        "downloads": 4409,
+        "url": "https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain"
+    },
+    {
+        "id": "stepfun-ai/stepvideo-t2v",
+        "likes": 397,
+        "downloads": 1548,
+        "url": "https://huggingface.co/stepfun-ai/stepvideo-t2v"
+    },
+    {
+        "id": "moonshotai/Moonlight-16B-A3B-Instruct",
+        "likes": 116,
+        "downloads": 2608,
+        "url": "https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct"
+    },
+    {
+        "id": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+        "likes": 105,
+        "downloads": 0,
+        "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged"
+    },
+    {
+        "id": "Kijai/SkyReels-V1-Hunyuan_comfy",
+        "likes": 162,
+        "downloads": 32310,
+        "url": "https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy"
+    },
+    {
+        "id": "microsoft/wham",
+        "likes": 231,
+        "downloads": 0,
+        "url": "https://huggingface.co/microsoft/wham"
+    },
+    {
+        "id": "GSAI-ML/LLaDA-8B-Instruct",
+        "likes": 86,
+        "downloads": 934,
+        "url": "https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct"
+    },
+    {
+        "id": "homebrewltd/AlphaMaze-v0.2-1.5B",
+        "likes": 82,
+        "downloads": 1192,
+        "url": "https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B"
+    },
+    {
+        "id": "Wan-AI/Wan2.1-I2V-14B-480P",
+        "likes": 79,
+        "downloads": 226856,
+        "url": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P"
+    },
+    {
+        "id": "stepfun-ai/Step-Audio-Chat",
+        "likes": 403,
+        "downloads": 957,
+        "url": "https://huggingface.co/stepfun-ai/Step-Audio-Chat"
+    },
+    {
+        "id": "perplexity-ai/r1-1776-distill-llama-70b",
+        "likes": 82,
+        "downloads": 3526,
+        "url": "https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b"
+    },
+    {
+        "id": "convergence-ai/proxy-lite-3b",
+        "likes": 78,
+        "downloads": 931,
+        "url": "https://huggingface.co/convergence-ai/proxy-lite-3b"
+    },
+    {
+        "id": "deepseek-ai/Janus-Pro-7B",
+        "likes": 3146,
+        "downloads": 476000,
+        "url": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+        "likes": 580,
+        "downloads": 2009262,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct"
+    },
+    {
+        "id": "unsloth/DeepSeek-R1-GGUF",
+        "likes": 940,
+        "downloads": 4298828,
+        "url": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+    }
+]
